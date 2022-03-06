@@ -50,7 +50,7 @@ Once the loop was completed, a few more lines of code were added to format the i
 ### 2017
 For the portfolio of eleven given stocks, 2017 was a year of positive trends. All stocks except for TERP saw positive returns, with DQ nearly hitting a 200% return rate. It should be noted that most stocks in the portfolio did not see such high returns. Some stocks, such as RUN and AY were much lower, although still positive at 5.5% and 8.9% respectively. TERP saw a loss of 7.2%, but that would be counteracted by the returns of the other stocks, assuming that the portfolio was evenly balanced between all eleven. 
 
-[2017data](https://imgur.com/fy5njfJ)
+[2017 data](https://imgur.com/fy5njfJ)
 
 ### 2018
 2017 may have been a great success for the portfolio, but 2018 saw losses almost across the board. All of the stocks saw losses, except for ENPH and RUN. In fact, while RUN saw the lowest positive return in 2017, it saw the highest return in 2018 at 84%, with ENPH slightly behind at 81.9%. DQ went from the highest return to a loss of 62.6%, the lowest of the entire portfolio. Regarding total daily volume, 2018 saw decreases for the majority of stocks. The more sparsely traded stocks (AY, CSIQ, and DQ) all saw slight increases, while the rest decreased.  
